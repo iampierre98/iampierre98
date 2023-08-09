@@ -2,9 +2,10 @@
 <h3 align="center">A Frontend Developer from Peru 🇵🇪 Learning Backend 💻</h3>
 <br/>
 
+- 🔭 I’m currently working on [Ppol](https://www.ppol.io) as a **Full Stack Developer**
 
-- 🔭 I’m currently working on [La Piel del Hincha](http://lapieldelhincha.store) as a **Freelancer Web Developer**
-
+- 🔭 I developed [La Piel del Hincha](https://www.lapieldelhincha.store)
+  
 - 🌱 I’m currently learning **SQL and NoSQL**
 
 - 💬 Ask me about **all you want, feel free to ask**
