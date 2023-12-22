@@ -6,7 +6,7 @@
 
 - 🔭 I developed [La Piel del Hincha](https://www.lapieldelhincha.store)
   
-- 🌱 I’m currently learning **SQL and NoSQL**
+- 🌱 I’m currently learning **PHP Backend**
 
 - 💬 Ask me about **all you want, feel free to ask**
 
