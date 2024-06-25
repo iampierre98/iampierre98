@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
-<h3 align="center">A Frontend Developer from Peru 🇵🇪 Learning Backend 💻</h3>
+<h3 align="center">Lead Full Stack Developer 💻 from Peru 🇵🇪</h3>
 <br/>
 
-- 🔭 I’m currently working on [Ppol](https://www.ppol.io) as a **Full Stack Developer**
+- 🔭 I’m currently working on [Ppol](https://www.ppol.io) as a **Lead Full Stack Developer**
 
 - 🔭 I developed [La Piel del Hincha](https://www.lapieldelhincha.store)
   
-- 🌱 I’m currently learning **PHP Backend**
+- 🌱 I learned **PHP Backend**
 
 - 💬 Ask me about **all you want, feel free to ask**
 
