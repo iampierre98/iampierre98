@@ -2,7 +2,7 @@
 <h3 align="center">Lead Full Stack Developer 💻 from Peru 🇵🇪</h3>
 <br/>
 
-- 🔭 I’m currently working on [Fravatel EIRL]
+- 🔭 I’m currently working on Fravatel EIRL
 
 - 🔭 I developed [La Piel del Hincha](https://www.lapieldelhincha.store) and [Ppol](https://www.ppol.io)
   
