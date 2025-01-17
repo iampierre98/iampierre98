@@ -2,12 +2,10 @@
 <h3 align="center">Lead Full Stack Developer 💻 from Peru 🇵🇪</h3>
 <br/>
 
-- 🔭 I’m currently working on [Ppol](https://www.ppol.io) as a **Lead Full Stack Developer**
+- 🔭 I’m currently working on [Fravatel EIRL]
 
-- 🔭 I developed [La Piel del Hincha](https://www.lapieldelhincha.store)
+- 🔭 I developed [La Piel del Hincha](https://www.lapieldelhincha.store) and [Ppol](https://www.ppol.io)
   
-- 🌱 I learned **PHP Backend**
-
 - 💬 Ask me about **all you want, feel free to ask**
 
 - 📫 How to reach me **pierreluigui16@gmail.com**
