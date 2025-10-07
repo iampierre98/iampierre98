@@ -113,16 +113,6 @@
 
 <br/>
 
-<h3 align="center">My Stats:</h3>
-
-<p align="center">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=iampierre98&label=Profile%20views&color=0e75b6&style=flat" alt="iampierre98" />
-  </p>
-</p>
-
-<br/>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/pierre-vicente-a9b951219" target="blank">
@@ -131,4 +121,10 @@
   <a href="https://instagram.com/iampierre98" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iampierre98" height="30" width="40" />
   </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iampierre98&label=Profile%20views&color=0e75b6&style=flat" alt="iampierre98" />
 </p>
