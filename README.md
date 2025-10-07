@@ -10,13 +10,19 @@
 
 - 📫 How to reach me **pierreluigui16@gmail.com**
 
-- ⚡ Fun fact **I like videogames, actually I was a Videogame Developer 😋**
+- ⚡ Fun fact **I love videogames. Actually, I was a Videogame Developer 😋 and Modder**
 
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
+<div>
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+</div>
+<div>
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+</div>
 <div>
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
 </div>
