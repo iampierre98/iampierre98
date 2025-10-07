@@ -16,103 +16,65 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="Axios" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/chartjs/chartjs-original-wordmark.svg" alt="ChartJS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cpanel/cpanel-original.svg" alt="CPanel" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Css3" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="Filezilla" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" alt="Adobe Illustrator" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="Json" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="Less" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mapbox/mapbox-original.svg" alt="Mapbox" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="MD" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="Npm" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pm2/pm2-original.svg" alt="Pm2" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="React Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" alt="React Navigation" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" alt="SocketIO" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="SSH" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="ViteJS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/>
+</p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/chartjs/chartjs-original-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cpanel/cpanel-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mapbox/mapbox-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pm2/pm2-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="babel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="babel" width="40" height="40"/>
+<br/>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
 </p>
 
 <br/>
