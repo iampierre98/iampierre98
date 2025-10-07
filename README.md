@@ -17,15 +17,9 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
-<div>
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-</div>
-<div>
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-</div>
-<div>
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-</div>
 
 
   
