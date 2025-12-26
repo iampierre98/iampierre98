@@ -110,7 +110,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg alt="Quasar" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" alt="Quasar" width="40" height="40"/>
 </p>
 
 <br/>
