@@ -2,7 +2,7 @@
 <h3 align="center">Lead Full Stack Developer 💻 from Peru 🇵🇪</h3>
 <br/>
 
-- 🔭 I’m currently working on Fravatel EIRL
+- 🔭 I’m currently working on Omniatel as a Lead Full Stack Developer
 
 - 🔭 I developed [Ppol](https://www.ppol.io), [Instituto Bicentenario](https://institutobicentenario.org) and [La Piel del Hincha](https://www.lapieldelhincha.store)
   
